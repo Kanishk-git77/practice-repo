@@ -11,8 +11,8 @@ This is beginner level project which shows how to create a CRUD API using Javasc
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/crudapi.git
-    cd crudapi
+    git clone https://github.com/Kanishk-git77/practice-repo.git
+    cd practice-repo
     ```
 
 2. Build the Docker image:
